@@ -1,0 +1,15 @@
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\bin\Debug\Binaris_Jatek.exe.config
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\bin\Debug\Binaris_Jatek.exe
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\bin\Debug\Binaris_Jatek.pdb
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\obj\Debug\Binaris_Jatek.csprojAssemblyReference.cache
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\obj\Debug\MainWindow.g.cs
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\obj\Debug\App.g.cs
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\obj\Debug\Binaris_Jatek_MarkupCompile.cache
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\obj\Debug\Binaris_Jatek_MarkupCompile.lref
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\obj\Debug\MainWindow.baml
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\obj\Debug\Binaris_Jatek.g.resources
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\obj\Debug\Binaris_Jatek.Properties.Resources.resources
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\obj\Debug\Binaris_Jatek.csproj.GenerateResource.cache
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\obj\Debug\Binaris_Jatek.csproj.CoreCompileInputs.cache
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\obj\Debug\Binaris_Jatek.exe
+C:\Users\Sohodóczki Tamás\Desktop\projek\Binaris_Jatek\Binaris_Jatek\obj\Debug\Binaris_Jatek.pdb
